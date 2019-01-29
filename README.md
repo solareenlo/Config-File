@@ -9,3 +9,6 @@
 
 ## Express, TypeScript, Webpackを使うときの設定ファイル
 - https://github.com/solareenlo/Express-TS-Webpack-config
+
+## private repositoryをssh接続でcloneする方法
+- https://github.com/solareenlo/private-ssh-clone
