@@ -12,3 +12,6 @@
 
 ## private repositoryをssh接続でcloneする方法
 - https://github.com/solareenlo/private-ssh-clone
+
+## mongodbのコンソールからの使い方
+- https://github.com/solareenlo/Web-App-with-Nodejs-Express/tree/master/08_mongodb_console
