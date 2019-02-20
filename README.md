@@ -1,6 +1,9 @@
 # Config-File
 各種設定ファイルのリポジトリ.
 
+## gitの使い方
+- https://github.com/solareenlo/git-practice
+
 ## Vimの設定フィアル
 - https://github.com/solareenlo/Vim-config
 
