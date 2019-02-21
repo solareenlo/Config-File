@@ -1,7 +1,10 @@
 # Config-File
 各種設定ファイルのリポジトリ.
 
-## gitの使い方
+## UNIXコマンドの基本的な使い方
+- https://github.com/solareenlo/unix-command-practice
+
+## gitの基本的な使い方
 - https://github.com/solareenlo/git-practice
 
 ## Vimの設定フィアル
@@ -16,5 +19,5 @@
 ## private repositoryをssh接続でcloneする方法
 - https://github.com/solareenlo/private-ssh-clone
 
-## mongodbのコンソールからの使い方
+## mongodbのコンソールからの基本的な使い方
 - https://github.com/solareenlo/Web-App-with-Nodejs-Express/tree/master/08_mongodb_console
