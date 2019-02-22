@@ -1,6 +1,9 @@
 # Config-File
 各種設定ファイルのリポジトリ.
 
+## sedの基本的な使い方
+- https://github.com/solareenlo/sed-practice
+
 ## GitHubでのマークダウンの書き方
 - https://help.github.com/en/categories/writing-on-github
 - https://github.com/owlat7/markdown-memo
