@@ -1,6 +1,10 @@
 # Config-File
 各種設定ファイルのリポジトリ.
 
+## GitHubでのマークダウンの書き方
+- https://help.github.com/en/categories/writing-on-github
+- https://github.com/owlat7/markdown-memo
+
 ## UNIXコマンドの基本的な使い方
 - https://github.com/solareenlo/unix-command-practice
 
