@@ -1,6 +1,9 @@
 # Config-File
 各種設定ファイルのリポジトリ.
 
+## shellscriptの基本的な使い方
+- https://github.com/solareenlo/shellscript-practice
+
 ## sedの基本的な使い方
 - https://github.com/solareenlo/sed-practice
 
