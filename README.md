@@ -21,7 +21,7 @@
 - https://github.com/solareenlo/git-practice
 
 ## Vimの設定フィアル
-- https://github.com/solareenlo/Vim-config
+- https://github.com/solareenlo/vim-config
 
 ## ubuntu18.04用の.bashrcの追加要素
 - https://github.com/solareenlo/bashrc
